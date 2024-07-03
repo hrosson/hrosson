@@ -15,12 +15,19 @@ as well as:
 
 I spend a lot of time thinking about interesting projects for my students, and I've included some of the ones I've done here.
 
+## Projects: 
+
+Coming shortly. 
+
 ## Skills:
 
  + Programming with R
  + Python
  + C
 
+## A short vita:
+
+Also coming shortly. 
 
 <!--
 **hrosson/hrosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
