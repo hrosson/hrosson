@@ -1,6 +1,6 @@
 ## Hello! 👋  
 
-I'm Holly Rosson and I'm faculty at Warren Wilson College teaching mathematics and data science courses.  In particular, some courses I teach are:
+I'm faculty at Warren Wilson College and I teach mathematics and data science courses.  In particular, some courses I teach are:
 
   + Statistics
   + Introduction to Data Science with R
@@ -13,7 +13,7 @@ as well as:
   +  Calculus and Multivariable Calculus
   +  Linear Algebra
 
-I spend a lot of time thinking about interesting projects for my students, and I've included some of the ones I've done here.
+I spend a lot of time thinking about interesting data science projects for my students, and I've included some of the ones I've done here.
 
 ## Projects: 
 
