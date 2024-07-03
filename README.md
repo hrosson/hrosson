@@ -7,7 +7,9 @@ I'm faculty at Warren Wilson College teaching mathematics and data science cours
   + Machine Learning
   + Environmental and Social Advocacy with Data
   + Python
+
 as well as:
+
   +  Calculus and Multivariable Calculus
   +  Linear Algebra
 
