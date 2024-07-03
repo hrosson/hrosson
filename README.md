@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hello! 👋  
+
+I'm faculty at Warren Wilson College teaching mathematics and data science courses.  In particular, some courses I teach are:
+
+  + Statistics
+  + Introduction to Data Science with R
+  + Machine Learning
+  + Environmental and Social Advocacy with Data
+  + Python
+as well as:
+  +  Calculus and Multivariable Calculus
+  +  Linear Algebra
+
+I spend a lot of time thinking about interesting projects for my students, and I've included some of the ones I've done here.
+
+
 
 <!--
 **hrosson/hrosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
