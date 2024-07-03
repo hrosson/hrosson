@@ -15,6 +15,11 @@ as well as:
 
 I spend a lot of time thinking about interesting projects for my students, and I've included some of the ones I've done here.
 
+## Skills:
+
+ + Programming with R
+ + Python
+ + C
 
 
 <!--
