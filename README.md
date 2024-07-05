@@ -27,7 +27,7 @@ Coming shortly.
 
 ## A short vita:
 
-[Here is a very abbreviated version of my vita:](vita.pdf)
+[Here is an abbreviated vita:](vita.pdf)
 
 <!--
 **hrosson/hrosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
