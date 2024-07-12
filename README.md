@@ -17,7 +17,7 @@ I spend a lot of time thinking about interesting data science projects for my st
 
 ## Projects: 
 
-Coming shortly. 
+  + [Bounty and Soul (supported by South Big Data Hub)]
 
 ## Skills:
 
