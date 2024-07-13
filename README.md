@@ -1,6 +1,6 @@
 ## Hello! 👋  
 
-I'm faculty at Warren Wilson College and I teach mathematics and data science courses.  In particular, some courses I teach are:
+I'm a faculty member at Warren Wilson College and I teach mathematics and data science courses.  In particular, some courses I teach are:
 
   + Statistics
   + Introduction to Data Science with R
