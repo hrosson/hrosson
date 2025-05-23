@@ -13,12 +13,6 @@ as well as:
   +  Calculus and Multivariable Calculus
   +  Linear Algebra
 
-I spend a lot of time thinking about interesting data science projects for my students, and I've included some of the ones I've done here.
-
-## Projects: 
-
-  + [Bounty and Soul (supported by South Big Data Hub)](https://github.com/hrosson/Data-Science-with-Bounty-and-Soul)
-
 ## Skills:
 
  + Programming with R
